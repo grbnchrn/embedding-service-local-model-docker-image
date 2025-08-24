@@ -1,0 +1,1 @@
+# embedding-service-local-model-docker-image
